@@ -11,8 +11,9 @@ My focus is on making financial data and AI workflows easier to check, understan
 
 ## Open-source work
 
-I'm starting with finance data quality: a practical Pandera tutorial that checks
-transaction exports before reconciliation or AI-assisted analysis.
+- [Pandera financial reconciliation tutorial](https://github.com/unionai-oss/pandera/pull/2605)
+  (draft PR): validate transaction exports and identify missing records,
+  duplicate references and differences in currency or amount.
 
 ## How I approach the work
 
