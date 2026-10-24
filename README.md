@@ -15,6 +15,9 @@ My focus is on making financial data and AI workflows easier to check, understan
   (draft PR): validate transaction exports and identify missing records,
   duplicate references and differences in currency or amount.
 
+- [Pandera DataFusion warning fix](https://github.com/unionai-oss/pandera/pull/2606)
+  (draft PR): add the missing explicit warning stack level in the DataFusion schema.
+
 ## How I approach the work
 
 I use synthetic examples, check edge cases and explain what each test establishes.
